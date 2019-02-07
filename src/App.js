@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1>Memory Game</h1>
-          <h3 class="subtitle">Match cards to win</h3>
+          <h3 className="subtitle">Match cards to win</h3>
         </header>
         <div>
           <MemoryCard />
