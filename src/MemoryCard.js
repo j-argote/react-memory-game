@@ -10,6 +10,7 @@ class MemoryCard extends Component{
         this.clickHandler = this.clickHandler.bind(this)
     }
 
+    //handles click event
     clickHandler(){
         this.setState({isFlipped: !this.state.isFlipped})
     }
