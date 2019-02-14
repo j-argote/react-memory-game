@@ -1,3 +1,6 @@
+// MemoryCard component renders the function of each card
+
+
 import React, {Component} from 'react';
 import './MemoryCard.css'
 
