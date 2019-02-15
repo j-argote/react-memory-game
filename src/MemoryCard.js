@@ -25,7 +25,7 @@ class MemoryCard extends Component{
 
         }
         
-
+        //whats going to be viewed
         return(
             <div className="MemoryCard" onClick = {this.clickHandler}>
                 <div className={memoryCardInnerClass}>
