@@ -6,7 +6,7 @@ import MemoryCard from './MemoryCard'
 class App extends Component {
   
   render() {
-    
+    //displays a 4x16 layout of cards
     return (
       <div className="App">
         <header className="App-header">
